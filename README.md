@@ -1,3 +1,4 @@
+![phantomV3](https://github.com/user-attachments/assets/f8fe00d9-4817-44d2-8e8f-16a9b85eb372)
 # Phantom Wallet - 12th Word Finder
 
 This Python script is designed to recover the twelfth and final word of a 12-word seed phrase for a Phantom Wallet. It automates the process of testing every possible word from the BIP-39 wordlist as the twelfth word to regain access to a wallet where only this single word is missing.
