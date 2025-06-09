@@ -83,7 +83,7 @@ Before you begin, ensure you have the following software installed on your syste
 Open a terminal or command prompt, navigate to the project directory, and run the script:
 
 ```bash
-python phantomBot.py
+python phantomBotV3.py
 ```
 
 The script will now open a Chrome window and begin the search. You can follow the progress live in the terminal. When the correct phrase is found, it will be printed in the terminal.
